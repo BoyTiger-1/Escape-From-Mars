@@ -6,6 +6,14 @@ Welcome to **Escape From Mars**, a fun and challenging browser-based game built 
 
 ---
 
+## 💡 What it does
+Escape from Mars is an **infinite runner game** where you control a robot moving through a dangerous Martian landscape.  
+- **Objective:** Avoid enemies, collect coins, and pick up power-ups to boost your performance.  
+- **Shop System:** Use collected coins to buy new robot skins. You can click a skin to purchase it and double-click to equip it.  
+- **Power-ups:** Give temporary abilities like speed boosts or invincibility.  
+
+---
+
 ## 🎮 Game Controls
 - **Tap / Click and Hold** → Move your robot **up**
 - **Release** → Move your robot **down**
@@ -13,6 +21,17 @@ Welcome to **Escape From Mars**, a fun and challenging browser-based game built 
 - **Shop Controls**:
   - Click on a skin in the shop to **buy it**
   - Double click on a skin to **equip it**
+
+---
+
+## 🛠️ How I built it
+The game is built using:
+- **HTML** for structure and layout  
+- **CSS** for styling and animations  
+- **JavaScript** for game logic, movement, collisions, scoring, and shop functionality  
+- **Sprites** for the robot, enemies, and power-ups  
+
+The game includes sound effects, coin collection tracking, and a shop system that saves progress even if the player leaves the game.
 
 ---
 
@@ -30,14 +49,6 @@ You can play directly in the browser using the link above, but if you want to ru
    ```
 
 3. Run the game by opening **index.html** in your web browser.
-
-
----
-
-## 🛠️ Built With
-- **HTML** – Structure of the game
-- **CSS** – Styling and visuals
-- **JavaScript** – Game logic and interactivity
 
 ---
 
